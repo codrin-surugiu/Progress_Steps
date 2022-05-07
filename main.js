@@ -41,6 +41,8 @@ prev.addEventListener("click", () => {
 //.forEach((codrin, indexescu))
 //console.log(c)
 //console.log(index)
+
+//console.lg(sda)
 function update() {
   circles.forEach((circle, idx) => {
     if (idx < currentActive) {
