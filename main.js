@@ -50,6 +50,7 @@ function update() {
     }
   });
 }
+//schimabre
 
 let progressBar = () => {
   const actives = document.querySelectorAll(".active");
